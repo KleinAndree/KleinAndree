@@ -43,7 +43,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=KleinAndree&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=true&order=1" height="148" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KleinAndree&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=KleinAndree&locale=en&mode=weekly&theme=highcontrast&hide_border=true&border_radius=8&order=3" height="200" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KleinAndree&radius=16&theme=high-contrast&area=true&order=5&hide_border=true" height="400" alt="activity-graph graph"  />
+  <!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=KleinAndree&radius=16&theme=high-contrast&area=true&order=5&hide_border=true" height="400" alt="activity-graph graph"  /> -->
 </div>
 
 ###
